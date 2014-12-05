@@ -26,6 +26,7 @@
 
             @filter = @Filter instance, @
             @search = @Search instance, @
+            @stats = @Stats instance, @
 
             # Internal selection tracking for method chaining
             @_el        = []

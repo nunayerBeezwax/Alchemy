@@ -36,6 +36,7 @@ title: Anotated Source
             @create = @api.create
             @set    = @api.set
             @filter = @api.filter
+            @statistics = @api.stats
 
             @drawing  =
                 DrawEdge : DrawEdge   @
